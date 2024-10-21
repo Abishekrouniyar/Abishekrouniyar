@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abishekrouniyar
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning python and c language.
+- 🌱 I’m currently learning python and C language.
 - 💞️ I’m looking to collaborate on building great things together.
 <!---
 Abishekrouniyar/Abishekrouniyar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
